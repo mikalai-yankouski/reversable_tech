@@ -1,6 +1,13 @@
 require "reversable_tech/version"
 
 module ReversableTech
-  class Error < StandardError; end
-  # Your code goes here...
+  class Reverter
+    def initialize(entity)
+      @entity = entity
+    end
+
+    def call
+
+    end
+  end
 end
