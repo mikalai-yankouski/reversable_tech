@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'reversable_tech'
-  s.version     = '0.0.1'
+  s.version     = '1.0.0'
   s.date        = '2020-09-14'
   s.summary     = 'Hola!'
   s.description = 'A simple revertable gem'
