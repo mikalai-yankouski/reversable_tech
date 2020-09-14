@@ -1,5 +1,3 @@
-require "reversable_tech/version"
-
 module ReversableTech
   class Reverter
     AVAILABLE_ENTITIES = {
